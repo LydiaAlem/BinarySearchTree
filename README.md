@@ -11,3 +11,24 @@ I created a Binary Search Tree implementation that includes functions such as in
     5. Quit
     
     
+    
+    2 --> JUNIT Tests include:
+    
+        @Test
+        public void insert(){...}
+        
+        @Test
+        public void searchingEmptyTree(){...}
+        
+        @Test
+        public void searchElement(){...}
+        
+        @Test
+        public void removeElement(){...}
+        
+        @Test 
+        public void searchforRemoveElement(){...}
+        
+        
+        
+    
