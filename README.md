@@ -23,7 +23,7 @@
     >> java Main
                 
 ##### 4) Run the JUnit program
-    >> On VS Code, this requires additional installation [(Here)](https://code.visualstudio.com/docs/java/java-debugging)
+    >> On VS Code, this requires additional installation [Here](https://code.visualstudio.com/docs/java/java-debugging)
         
         
 ## Built with
